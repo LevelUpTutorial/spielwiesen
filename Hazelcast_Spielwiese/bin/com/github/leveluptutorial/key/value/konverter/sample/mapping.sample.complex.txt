@@ -1,0 +1,9 @@
+# Beispiel einer Mappingtabelle
+# Einfaches Mapping
+# Schlüssel der Inputdatei -> Schlüssel der Ausgabedatei
+keyA1->keyB10
+keyA2->keyB20
+keyA3->keyB30
+keyAN->keyBNN
+# Komplexes Mapping
+keyC1,keyC2->com.github.leveluptutorial.key.value.konverter.sample.ComplexMappingSampleClass

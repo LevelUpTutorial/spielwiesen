@@ -1,0 +1,5 @@
+# Beispiel einer Eingabedatei
+key1=1
+key2=2
+key3=3
+keyN=N
